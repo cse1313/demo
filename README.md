@@ -1,6 +1,6 @@
 # demo
 
-### This is my first github repo.
+### This is my first github repo. This is my demo repo.
 
 ### Another test
 ### Hello world
